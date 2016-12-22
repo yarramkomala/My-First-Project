@@ -1,4 +1,4 @@
-/* this is a hashmap example*/
+/* this is a hashmap example  after editing*/
 import java.util.*;  
 class TestCollection13{  
  public static void main(String args[]){  
